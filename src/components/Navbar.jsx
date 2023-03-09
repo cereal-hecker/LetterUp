@@ -28,7 +28,7 @@ export default function NavbarAvatarPreview() {
                 viewBox="0 0 300 300"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-12 w-12 bg-emerald-500"
+                className="h-12 w-12 bg-blue-500"
               >
                 <path
                   fillRule="evenodd"
@@ -43,7 +43,7 @@ export default function NavbarAvatarPreview() {
                   fill="rgba(255,255,255,.2)"
                 />
               </svg>
-              Brand
+              LetterUp
             </a>
             {/*      <!-- Mobile trigger --> */}
             <button
@@ -112,7 +112,7 @@ export default function NavbarAvatarPreview() {
                   aria-haspopup="false"
                   tabIndex="0"
                   className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-blue-700 focus:bg-blue-50 focus:outline-none focus-visible:outline-none lg:px-8"
-                  href="javascript:void(0)"
+                  href="/placements"
                 >
                   <span>LOR</span>
                 </a>

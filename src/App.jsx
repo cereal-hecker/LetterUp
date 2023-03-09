@@ -13,6 +13,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/IshipPage" element={<IshipPage />} />
+          <Route path="/PlacementsPage" element={<PlacementsPage />} />
+          <Route path="/LOR" element={<LOR />} />
         </Routes>
       </div>
     </BrowserRouter>
