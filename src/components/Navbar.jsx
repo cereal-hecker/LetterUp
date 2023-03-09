@@ -89,7 +89,7 @@ export default function NavbarAvatarPreview() {
                   aria-haspopup="false"
                   tabIndex="0"
                   className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-blue-700 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
-                  href="javascript:void(0)"
+                  href="/IshipPage"
                 >
                   <span>Internships </span>
                 </a>
