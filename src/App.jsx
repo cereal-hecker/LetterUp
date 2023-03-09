@@ -3,6 +3,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Login from "./components/Login";
 import IshipPage from "./components/IshipPage";
 import Navbar from "./components/Navbar";
+import PlacementsPage from "./components/PlacementsPage";
+import LOR from "./components/LOR";
 
 function App() {
   const [data, setData] = useState({});

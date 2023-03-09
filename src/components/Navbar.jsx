@@ -20,7 +20,7 @@ export default function NavbarAvatarPreview() {
               aria-label="WindUI logo"
               aria-current="page"
               className="flex items-center gap-2 whitespace-nowrap py-3 text-lg focus:outline-none lg:flex-1"
-              href="javascript:void(0)"
+              href="/Login"
             >
               <svg
                 width="300"
@@ -112,7 +112,7 @@ export default function NavbarAvatarPreview() {
                   aria-haspopup="false"
                   tabIndex="0"
                   className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-blue-700 focus:bg-blue-50 focus:outline-none focus-visible:outline-none lg:px-8"
-                  href="/placements"
+                  href="/PlacementsPage"
                 >
                   <span>LOR</span>
                 </a>
