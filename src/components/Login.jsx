@@ -1,3 +1,5 @@
+import Internship from "./Internship";
+
  const Login = () => {
   return (
     
