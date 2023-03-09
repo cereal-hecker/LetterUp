@@ -88,7 +88,7 @@ export default function NavbarAvatarPreview() {
                   role="menuitem"
                   aria-haspopup="false"
                   tabIndex="0"
-                  className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-emerald-500 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
+                  className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-blue-700 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
                   href="javascript:void(0)"
                 >
                   <span>Internships </span>
@@ -100,7 +100,7 @@ export default function NavbarAvatarPreview() {
                   aria-current="page"
                   aria-haspopup="false"
                   tabIndex="0"
-                  className="flex items-center gap-2 py-4 text-emerald-500 transition-colors duration-300 hover:text-emerald-600 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
+                  className="flex items-center gap-2 py-4 text-blue-700 transition-colors duration-300 hover:text-blue-700 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
                   href="javascript:void(0)"
                 >
                   <span>Placements</span>
@@ -111,7 +111,7 @@ export default function NavbarAvatarPreview() {
                   role="menuitem"
                   aria-haspopup="false"
                   tabIndex="0"
-                  className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-emerald-500 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
+                  className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-blue-700 focus:bg-blue-50 focus:outline-none focus-visible:outline-none lg:px-8"
                   href="javascript:void(0)"
                 >
                   <span>LOR</span>
@@ -121,7 +121,7 @@ export default function NavbarAvatarPreview() {
             <div className="ml-auto flex items-center px-6 lg:ml-0 lg:p-0">
               <a
                 href="#"
-                class="relative inline-flex items-center justify-center w-12 h-12 text-lg text-white rounded-full bg-emerald-500"
+                class="relative inline-flex items-center justify-center w-12 h-12 text-lg text-white rounded-full bg-blue-700"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
